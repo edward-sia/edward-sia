@@ -43,7 +43,7 @@ I write at [keeploop.dev](https://keeploop.dev).
 
 ### Games
 
-- 🌙 **[HIRAETH](https://github.com/edward-sia/dreamcore)** · JavaScript
+- 🌙 **[HIRAETH](https://hiraeth.keeploop.dev)** · JavaScript · [source](https://github.com/edward-sia/dreamcore)
 
   A first-person dreamcore puzzle game in the browser. Find each room's clues to drift deeper toward waking.
 
